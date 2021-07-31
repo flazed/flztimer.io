@@ -1,2 +1,2 @@
-# flztimer.io
- simple timer/stopwatch
+# simple timer/stopwatch
+https://flazed.github.io/simpletimer/
